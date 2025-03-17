@@ -1,0 +1,8 @@
+{
+    "manufacturer": "Arthur",
+    "url": "",
+    "maintainer": "Arthur",
+    "usb": {
+        "vid": "0xFEED"
+    }
+}
