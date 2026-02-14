@@ -5,6 +5,8 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Arthur](https://github.com/ArthurFrangyan)
+* Hardware Supported: *The PCBs, controllers supported*
+* Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 

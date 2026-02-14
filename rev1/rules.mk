@@ -10,7 +10,6 @@ COMMAND_ENABLE = no         # Commands for debug and configuration
 AUDIO_ENABLE = no           # Audio output
 # RGBLIGHT_ENABLE = yes       # Enable WS2812 RGB underlight.
 SERIAL_DRIVER = bitbang
-SPLIT_KEYBOARD = yes
 ENCODER_ENABLE = yes
 MOUSEKEY_ENABLE = yes
 # ENCODER_MAP_ENABLE = yes

@@ -19,12 +19,12 @@
 #define SPLIT_WATCHDOG_ENABLE
 #define SPLIT_WATCHDOG_TIMEOUT 800
 
-#define ENCODERS_PAD_A { B3 }
-#define ENCODERS_PAD_B { F7 }
-#define ENCODERS_PAD_A_RIGHT { F6 }
-#define ENCODERS_PAD_B_RIGHT { F5 }
-#define ENCODER_RESOLUTIONS { 2 }
-#define ENCODER_RESOLUTIONS_RIGHT { 2 }
+// #define ENCODERS_PAD_A { B3 }
+// #define ENCODERS_PAD_B { F7 }
+// #define ENCODERS_PAD_A_RIGHT { F6 }
+// #define ENCODERS_PAD_B_RIGHT { F5 }
+// #define ENCODER_RESOLUTIONS { 2 }
+// #define ENCODER_RESOLUTIONS_RIGHT { 2 }
 
 
 // #define MASTER_RIGHT
