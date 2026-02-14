@@ -1,0 +1,11 @@
+{
+  "name": "keynet-keyboard",
+  "version": "1.0.0",
+  "description": "Custom split keyboard project with QMK firmware",
+  "scripts": {
+    "generate-layouts": "node generate_layout.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

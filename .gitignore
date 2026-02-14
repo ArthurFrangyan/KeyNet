@@ -1,0 +1,14 @@
+# QMK Build Artifacts
+*.hex
+*.bin
+*.qmk
+build/
+.build/
+
+# Node modules (for the layout generator)
+node_modules/
+package-lock.json
+
+# System Files
+.DS_Store
+Thumbs.db
